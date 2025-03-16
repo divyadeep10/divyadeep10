@@ -5,9 +5,8 @@
 ---
 
 ### 🎯 About Me
-- 🔭 **Currently working on:** AI-Powered Crop Disease Prediction 🌾
-- 🎓 **Education:** Manipal University Jaipur
-- 💡 **Learning:** Advanced Web Development, AI, and DevOps
+- 🎓 **Education:** Manipal University Jaipur (2022 - 2026)
+- 💡 **Learning:** Advanced Web Development, AI, and Generative AI.
 - ⚡ **Fun fact:** I love **competitive coding & exploring AI applications!**
 
 ---
