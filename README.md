@@ -51,13 +51,6 @@
 
 ---
 
-### 🎬 Fun Animation
-<p align="center">
-  <img src="https://media.giphy.com/media/3o7abKhOpu0NwenH3O/giphy.gif" width="300px"/>
-</p>
-
----
-
 ### 🌍 Connect With Me
 <p align="center">
   <a href="https://www.linkedin.com/in/divyadeep-sundriyal-94b3b2260/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/></a>
