@@ -61,7 +61,7 @@
 
 ### 🌍 Connect With Me
 <p align="center">
-  <a href="www.linkedin.com/in/divyadeep-sundriyal-94b3b2260"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/></a>
+  <a href="[www.linkedin.com/in/divyadeep-sundriyal-94b3b2260](https://www.linkedin.com/in/divyadeep-sundriyal-94b3b2260/)"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/></a>
   <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=web"/></a>
   <a href="mailto:divyadeepsundriyal@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/></a>
 </p>
