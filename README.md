@@ -1,17 +1,38 @@
-### Hi there, I'm Divyadeep Sundriyal! <img src="https://raw.githubusercontent.com/your-username/your-repo/main/wave.gif" width="40px">
+### Hi there, I'm Divyadeep Sundriyal! 👋
 
-👨‍💻 **B.Tech in Computer & Communication Engineering** | 🚀 **Tech Enthusiast & Open Source Contributor**
+👨‍💻 B.Tech in Computer & Communication Engineering | 🚀 Full-Stack Developer & AI Enthusiast
 
 ---
 
-### 🎯 About Me
-- 🎓 **Education:** Manipal University Jaipur (2022 - 2026)
-- 💡 **Learning:** Advanced Web Development, AI, and Generative AI.
-- ⚡ **Fun fact:** I love **competitive coding & exploring AI applications!**
+### 🔹 About Me
+
+Aspiring Software Engineer with hands-on experience in full-stack web development and AI-powered applications.  
+Proficient in MERN stack (MongoDB, Express.js, React.js, Node.js), Flask backend, LangChain, and OpenAI APIs.  
+Solved 200+ DSA problems on LeetCode, with strong skills in REST API design, JWT authentication, and cloud deployment (Vercel).  
+Passionate about building scalable, user-centric products with clean, modular code and responsive UI.
+
+---
+
+### 🔹 What I Do
+
+💻 **Full-Stack Development** – React.js, Node.js, Express.js, MongoDB, MySQL, Tailwind CSS  
+🤖 **AI & ML Applications** – Generative AI, Transformers, LangChain, NLP, Biomedical NER, Python  
+⚙️ **Software Engineering** – DSA, OOP, Operating Systems, Computer Networks, DBMS, C++
+
+---
+
+### 🔑 Key Projects
+
+✅ **CodeMaster** — Interactive coding platform with progress tracking & leaderboards (MERN Stack)  
+✅ **AI-Powered Code Analysis** — Flask-based API using Google Gemini AI for debugging & optimization  
+✅ **Adverse Event Detection** — AI pipeline analyzing FAERS datasets to predict drug-symptom risks  
+✅ **Alumni-Student Mentorship** — AI mentor matching platform with WebRTC & blockchain verification  
+✅ **Legal Lab** — Platform for lawyers selected in the Smart India Hackathon 2023 internal round
 
 ---
 
 ### 📊 GitHub Stats
+
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=divyadeep10&show_icons=true&theme=tokyonight" width="400px"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyadeep10&layout=compact&theme=tokyonight" width="400px"/>
@@ -20,6 +41,7 @@
 ---
 
 ### 🚀 Programming & Development Skills
+
 <p align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
@@ -40,6 +62,7 @@
 ---
 
 ### 🛠️ Technologies & Tools
+
 <p align="center">
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -51,9 +74,33 @@
 
 ---
 
+### 🎓 Education
+
+**Manipal University Jaipur**  
+B.Tech in Computer & Communication Engineering (2022 – 2026)  
+CGPA: 8.77/10
+
+**D.A.V Centenary Public School**  
+Class 12 – 89%  
+Class 10 – 88%
+
+---
+
+### 🏅 Certifications & Achievements
+
+- **Generative AI Fundamentals Specialization** — Coursera  
+- **Foundation of Data Science** — Coursera  
+- **Introduction to Computer Vision and Image Processing** — Coursera  
+- **Database Management System** — NPTEL  
+- **Design and Analysis of Algorithms** — NPTEL  
+- **Dean’s List** (Highest GPA 9.45/10 in Semester 4)  
+- Crafted the **Legal Lab website for Smart India Hackathon 2023** (MUJ Internal Round)
+
+---
+
 ### 🌍 Connect With Me
+
 <p align="center">
   <a href="https://www.linkedin.com/in/divyadeep-sundriyal-94b3b2260/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/></a>
-  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/Portfolio-Visit-green?style=for-the-badge&logo=web"/></a>
   <a href="mailto:divyadeepsundriyal@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/></a>
 </p>
