@@ -23,20 +23,20 @@ Passionate about building scalable, user-centric products with clean, modular co
 
 ### 🚀 Skills & Technologies
 
-**Languages & Programming:**  
-C, C++, Python, JavaScript, HTML, CSS  
+💻 **Languages & Programming:** C, C++, Python, JavaScript, HTML, CSS
 
-**Web & Full-Stack:**  
-React.js, Node.js, Express.js, MongoDB, MySQL, Tailwind CSS, JWT, Socket.IO, REST APIs  
 
-**AI & Machine Learning:**  
-LangChain, BioBERT, Transformers, Whisper, NLP, RAG, Gemini API  
+🌐 **Web & Full-Stack:** React.js, Node.js, Express.js, MongoDB, MySQL, Tailwind CSS, JWT, Socket.IO, REST APIs
 
-**Tools & Workflow:**  
-Git & GitHub, Postman, Vercel, Netlify, MongoDB Atlas, MySQL Workbench, Agile, CI/CD  
 
-**Core Computer Science:**  
-Data Structures & Algorithms, DBMS, Operating Systems, Computer Networks, OOP  
+🤖 **AI & Machine Learning:** LangChain, BioBERT, Transformers, Whisper, NLP, RAG, Gemini API
+ 
+
+🛠️ **Tools & Workflow:** Git & GitHub, Postman, Vercel, Netlify, MongoDB Atlas, MySQL Workbench, Agile, CI/CD
+
+
+📚 **Core Computer Science:** Data Structures & Algorithms, DBMS, Operating Systems, Computer Networks, OOP 
+
 
 ---
 
