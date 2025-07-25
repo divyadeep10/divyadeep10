@@ -6,48 +6,64 @@
 
 ### 🔹 About Me
 
-Aspiring Software Engineer with hands-on experience in full-stack web development and AI-powered applications.  
-Proficient in MERN stack (MongoDB, Express.js, React.js, Node.js), Flask backend, LangChain, and OpenAI APIs.  
-Solved 200+ DSA problems on LeetCode, with strong skills in REST API design, JWT authentication, and cloud deployment (Vercel).  
-Passionate about building scalable, user-centric products with clean, modular code and responsive UI.
+Aspiring Software Engineer with hands-on experience in building scalable full-stack applications and AI-powered solutions.  
+Proficient in MERN stack, FastAPI, LangChain, and OpenAI APIs with strong knowledge of REST/GraphQL APIs and JWT authentication.  
+Solved 200+ DSA problems on LeetCode. Passionate about writing clean, modular code and deploying responsive UIs on the cloud.
 
 ---
 
 ### 🔹 What I Do
 
-💻 **Full-Stack Development** – React.js, Node.js, Express.js, MongoDB, MySQL, Tailwind CSS  
-🤖 **AI & ML Applications** – Generative AI, Transformers, LangChain, NLP, Biomedical NER, Python  
-⚙️ **Software Engineering** – DSA, OOP, Operating Systems, Computer Networks, DBMS, C++
+💻 **Full-Stack Development** – React.js, Node.js, Express.js, MongoDB, Next.js, MySQL, Tailwind CSS  
+🤖 **AI & ML Applications** – Transformers, Whisper, BioBERT, LangChain, NLP, RAG, Gemini/OpenAI APIs  
+⚙️ **Software Engineering** – DSA, OOP, DBMS, Operating Systems, Computer Networks, Bash/Linux
 
 ---
 
 ### 🚀 Skills & Technologies
 
-💻 **Languages & Programming:** C, C++, Python, JavaScript, HTML, CSS
-
-
-🌐 **Web & Full-Stack:** React.js, Node.js, Express.js, MongoDB, MySQL, Tailwind CSS, JWT, Socket.IO, REST APIs
-
-
-🤖 **AI & Machine Learning:** LangChain, BioBERT, Transformers, Whisper, NLP, RAG, Gemini API
- 
-
-🛠️ **Tools & Workflow:** Git & GitHub, Postman, Vercel, Netlify, MongoDB Atlas, MySQL Workbench, Agile, CI/CD
-
-
-📚 **Core Computer Science:** Data Structures & Algorithms, DBMS, Operating Systems, Computer Networks, OOP 
-
+💻 **Languages:** C, C++, Python, JavaScript, HTML, CSS, Bash  
+🌐 **Full-Stack:** React.js, Next.js, Node.js, Express.js, MongoDB, MySQL, Tailwind CSS, Socket.IO, JWT, REST, GraphQL  
+🤖 **AI & ML:** Hugging Face Transformers, BioBERT, Whisper, LangChain, RAG, Gemini API, NLP  
+🛠️ **Tools:** Git & GitHub, Postman, Docker, Redis, Celery, Vercel, Netlify, MongoDB Atlas, MySQL Workbench, CI/CD  
+📚 **CS Fundamentals:** DSA, OOPS, DBMS, OS, CN
 
 ---
 
+### 💼 Experience
 
-### 🔑 Key Projects
+🧠 **SDE Intern @ PinkCityApps – Sift10x Marketplace** (Remote, Jun 2025 – Present)  
+- Built scalable job platform using FastAPI, PostgreSQL, Alembic, OAuth & JWT.  
+- Automated job crawling and LLM-based job classification (Gemini/OpenAI).  
+- Contributed to frontend in React + TypeScript with Tailwind & React Query.
 
-✅ **CodeMaster** — Interactive coding platform with progress tracking & leaderboards (MERN Stack)  
-✅ **AI-Powered Code Analysis** — Flask-based API using Google Gemini AI for debugging & optimization  
-✅ **Adverse Event Detection** — AI pipeline analyzing FAERS datasets to predict drug-symptom risks  
-✅ **Alumni-Student Mentorship** — AI mentor matching platform with WebRTC & blockchain verification  
-✅ **Legal Lab** — Platform for lawyers selected in the Smart India Hackathon 2023 internal round
+---
+
+### 🧠 Key Projects
+
+✅ **Adverse Event Detection**  
+Detects ADEs from medical conversations using Whisper & BioBERT.  
+`44% accuracy`, `0.42 F1-score` on 40K domain-specific samples.  
+_Stack:_ Flask, PyTorch, Transformers, BioBERT, React, REST API  
+[GitHub Repo](https://github.com/divyadeep10/Adverse-Event-Detector)
+
+✅ **InsightPulse – AI-Powered News Analysis Platform**  
+Sentiment & summarization engine with FastAPI + GraphQL backend.  
+Achieved `94% sentiment F1-score`, `32% ROUGE-1` for summaries.  
+_Stack:_ Next.js, FastAPI, PostgreSQL, Celery, Redis, Transformers  
+[GitHub Repo](https://github.com/divyadeep10/InsightPulse)
+
+✅ **Alumni-Student Mentorship Platform**  
+WebRTC-enabled mentorship system with RAG-based AI chatbot.  
+Integrated blockchain verification and webinar automation.  
+_Stack:_ MERN, WebRTC, LangChain, Gemini API, FAISS, TF-IDF  
+[GitHub Repo](https://github.com/divyadeep10/AI-Based_Alumnistudent-Frontend)  
+[Live Demo](https://ai-based-alumnistudent-frontend.vercel.app/)
+
+✅ **Legal Lab (Smart India Hackathon 2023)**  
+Platform for lawyers with case tracking and profile management.  
+Selected for SIH MUJ internal round.  
+[GitHub Repo](https://github.com/divyadeep10/SIH-2023?tab=readme-ov-file)
 
 ---
 
@@ -60,36 +76,27 @@ Passionate about building scalable, user-centric products with clean, modular co
 
 ---
 
-### 🚀 Programming & Development Skills
+### 🛠️ Development Stack
 
 <p align="center">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black"/>
   <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/DSA-FF4500?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/OOP-8A2BE2?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Whisper-000000?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/BioBERT-006400?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/LangChain-FFB6C1?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Generative_AI-FF69B4?style=for-the-badge"/>
-</p>
-
----
-
-### 🛠️ Technologies & Tools
-
-<p align="center">
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL_Workbench-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MongoDB_Atlas-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hugging_Face-FFDA00?style=for-the-badge&logo=huggingface&logoColor=black"/>
 </p>
 
 ---
@@ -98,23 +105,20 @@ Passionate about building scalable, user-centric products with clean, modular co
 
 **Manipal University Jaipur**  
 B.Tech in Computer & Communication Engineering (2022 – 2026)  
-CGPA: 8.77/10
+📈 CGPA: **8.85/10** (Dean’s List – 9.45 GPA in Sem 4)
 
 **D.A.V Centenary Public School**  
-Class 12 – 89%  
-Class 10 – 88%
+Class 12: 89% | Class 10: 88%
 
 ---
 
 ### 🏅 Certifications & Achievements
 
-- **Generative AI Fundamentals Specialization** — Coursera  
-- **Foundation of Data Science** — Coursera  
-- **Introduction to Computer Vision and Image Processing** — Coursera  
-- **Database Management System** — NPTEL  
-- **Design and Analysis of Algorithms** — NPTEL  
-- **Dean’s List** (Highest GPA 9.45/10 in Semester 4)  
-- Crafted the **Legal Lab website for Smart India Hackathon 2023** (MUJ Internal Round)
+- Generative AI Specialization – Coursera  
+- DBMS & DAA – NPTEL  
+- Computer Vision – Coursera  
+- Dean’s List – Highest GPA of 9.45 in Sem 4  
+- SIH 2023 Internal Round Finalist (Legal Lab)
 
 ---
 
@@ -123,4 +127,5 @@ Class 10 – 88%
 <p align="center">
   <a href="https://www.linkedin.com/in/divyadeep-sundriyal-94b3b2260/"><img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/></a>
   <a href="mailto:divyadeepsundriyal@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/></a>
+  <a href="https://leetcode.com/u/divyadeep/"><img src="https://img.shields.io/badge/LeetCode-200+_Problems-orange?style=for-the-badge&logo=leetcode"/></a>
 </p>
