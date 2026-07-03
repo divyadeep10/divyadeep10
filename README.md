@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0f2027,50:203a43,100:00ff9c&height=220&section=header&text=DIVYADEEP%20SUNDRIYAL&fontSize=48&fontColor=00FF9C&animation=twinkling&fontAlignY=38&desc=%3C%20FULL-STACK%20DEV%20%2F%2F%20AI%20ENGINEER%20%2F%2F%20BUG%20HUNTER%20%3E&descAlignY=58&descSize=16&descColor=39FF14" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=slice&color=0:0f2027,50:203a43,100:00ff9c&height=220&section=header&text=DIVYADEEP%20SUNDRIYAL&fontSize=48&fontColor=00FF9C&animation=twinkling&fontAlignY=38&desc=%2F%2F%20FULL-STACK%20DEV%20%7C%20AI%20ENGINEER%20%7C%20BUG%20HUNTER%20%2F%2F&descAlignY=58&descSize=16&descColor=39FF14" width="100%"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=600&color=39FF14&center=true&vCenter=true&width=750&lines=root%40divyadeep%3A~%24+whoami;%3E+full-stack+developer+%7C+ai+%26+ml+engineer;%3E+shipping+production+code+since+2022;%3E+sudo+deploy+--env%3Dproduction+--confidence%3Dhigh;%3E+200%2B+DSA+problems+solved+%E2%9A%A1" alt="Typing SVG" />
 
