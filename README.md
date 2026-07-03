@@ -164,7 +164,7 @@ Platform for lawyers with case tracking and profile management. Selected for the
 
 <br/>
 
-## `>` cat education.txt
+## `>` education.txt
 
 **Manipal University Jaipur**
 B.Tech in Computer & Communication Engineering (2022 – 2026)
