@@ -142,13 +142,11 @@ Platform for lawyers with case tracking and profile management. Selected for the
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=divyadeep10&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&count_private=true" height="165"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api?username=divyadeep10&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=39FF14&icon_color=39FF14&text_color=c9d1d9&count_private=true" height="165"/>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=divyadeep10&theme=highcontrast&hide_border=true&background=0D1117&stroke=39FF14&ring=39FF14&fire=39FF14&currStreakLabel=39FF14" height="165"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divyadeep10&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=39FF14&text_color=c9d1d9" height="165"/>
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=divyadeep10&layout=compact&theme=chartreuse-dark&hide_border=true&bg_color=0d1117&title_color=39FF14&text_color=c9d1d9" height="165"/>
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=divyadeep10&bg_color=0d1117&color=39FF14&line=39FF14&point=ffffff&area=true&hide_border=true" height="165"/>
-
-<img src="https://github-profile-trophy.vercel.app/?username=divyadeep10&theme=matrix&no-frame=true&row=1&column=6" />
 
 </div>
 
@@ -166,22 +164,14 @@ Platform for lawyers with case tracking and profile management. Selected for the
 
 <br/>
 
-## `>` cat education.json
+## `>` cat education.txt
 
-```json
-{
-  "university": "Manipal University Jaipur",
-  "degree": "B.Tech, Computer & Communication Engineering",
-  "duration": "2022 – 2026",
-  "cgpa": "8.85 / 10",
-  "highlight": "Dean's List — 9.45 GPA in Sem 4",
-  "school": {
-    "name": "D.A.V Centenary Public School",
-    "class_12": "89%",
-    "class_10": "88%"
-  }
-}
-```
+**Manipal University Jaipur**
+B.Tech in Computer & Communication Engineering (2022 – 2026)
+📈 CGPA: **8.85 / 10** · Dean's List — 9.45 GPA in Sem 4
+
+**D.A.V Centenary Public School**
+Class 12: 89% · Class 10: 88%
 
 <br/>
 
